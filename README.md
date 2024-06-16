@@ -163,6 +163,49 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Day 3: Operators - Learn Python in One Month</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <header>
+        <h1>Day 3: Operators</h1>
+        <nav>
+            <ul>
+                <li><a href="index.html">Home</a></li>
+                <li><a href="week1.html">Week 1</a></li>
+                <li><a href="planner.html">Learning Planner</a></li>
+                <li><a href="resources.html">Resources</a></li>
+                <li><a href="contact.html">Contact</a></li>
+                <li><a href="profile.html">Profile</a></li>
+            </ul>
+        </nav>
+    </header>
+    <main>
+        <section>
+            <h2>Operators in Python</h2>
+            <p>Operators are used to perform operations on variables and values. Python divides the operators in the following groups:</p>
+            <ul>
+                <li>Arithmetic operators</li>
+                <li>Assignment operators</li>
+                <li>Comparison operators</li>
+                <li>Logical operators</li>
+                <li>Identity operators</li>
+                <li>Membership operators</li>
+                <li>Bitwise operators</li>
+            </ul>
+            <h3>Operators Chart</h3>
+            <img src="images/operators_chart.png" alt="Operators Chart">
+        </section>
+    </main>
+    <footer>
+        <p>&copy; 2024 Learn Python. All rights reserved.</p>
+    </footer>
+</body>
+</html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Week 2 - Learn Python in One Month</title>
     <link rel="stylesheet" href="styles.css">
 </head>
